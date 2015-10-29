@@ -1,0 +1,4 @@
+OutpanLookupdevlunch.MainActivity, OutpanLookup-devlunch;md5bf5c1b404a0b9a16013f44450878c21c.MainActivity
+OutpanLookupdevlunch.MainActivity, OutpanLookup-devlunch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf5c1b404a0b9a16013f44450878c21c.MainActivity
+OutpanLookupdevlunch.MainActivity;md5bf5c1b404a0b9a16013f44450878c21c.MainActivity
+outpanlookupdevlunch.MainActivity;md5bf5c1b404a0b9a16013f44450878c21c.MainActivity

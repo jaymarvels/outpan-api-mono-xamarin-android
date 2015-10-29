@@ -1,0 +1,8 @@
+C:\Users\Jacob.Spencer\Documents\Projects\OutpanLookup-devlunch\OutpanLookup-devlunch\obj\Debug\assemblies\OutpanLookup-devlunch.dll
+C:\Users\Jacob.Spencer\Documents\Projects\OutpanLookup-devlunch\OutpanLookup-devlunch\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Jacob.Spencer\Documents\Projects\OutpanLookup-devlunch\OutpanLookup-devlunch\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Jacob.Spencer\Documents\Projects\OutpanLookup-devlunch\OutpanLookup-devlunch\obj\Debug\assemblies\Newtonsoft.Json.dll
+C:\Users\Jacob.Spencer\Documents\Projects\OutpanLookup-devlunch\OutpanLookup-devlunch\obj\Debug\assemblies\System.Core.dll
+C:\Users\Jacob.Spencer\Documents\Projects\OutpanLookup-devlunch\OutpanLookup-devlunch\obj\Debug\assemblies\System.dll
+C:\Users\Jacob.Spencer\Documents\Projects\OutpanLookup-devlunch\OutpanLookup-devlunch\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Jacob.Spencer\Documents\Projects\OutpanLookup-devlunch\OutpanLookup-devlunch\obj\Debug\assemblies\System.Runtime.Serialization.dll
